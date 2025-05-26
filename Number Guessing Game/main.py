@@ -13,5 +13,5 @@ while number != guess:
             guess = int(input("Guess another number: "))
     else:
          break
-print("You guessed correct!")
+print("You guessed the number correct!")
          
