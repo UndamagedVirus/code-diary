@@ -1,11 +1,11 @@
 # Code Diary
 <br>
 
-| Project | Project Name | Description | Difficulty | Ideas/Notes |
+| Project | Project Name | Language |  Description | Difficulty |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| #1 | Dice Roller | Dice Roller | 1/10 | Add a GUI. Create a Function to do the Roll
-| #2 | Even or Odd Checker |  |  |  
-| #3 | Age in Days |  |  |  
+| #1 | Dice Roller | Python | Simple terminal based dice roller. | 1/10 |
+| #2 | Number Guessing Game | Python | Super Simple terminal based number guessing game | 1/10 |
+| #3 |  |  |  |  
 | #4 |  |  |  |  
 | #5 |  |  |  |  
 
